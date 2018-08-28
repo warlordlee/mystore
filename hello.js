@@ -6,3 +6,7 @@ var n_b=2;
 function add_num(a,b){
 	return a+b
 }
+
+function add_mix(a,b){
+	return a*b
+}
